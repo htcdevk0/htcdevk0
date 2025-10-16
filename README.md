@@ -1,6 +1,12 @@
-<h1 align="center">htcdevk0</h1>
+<h1 align="center">About me:</h1>
 
 ###
+
+<h2 align="center">My techs:</h2>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -20,28 +26,28 @@
 
 ###
 
-<p align="center">IDE:</p>
+<h2 align="center">Working on:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img height="165" src="https://i.postimg.cc/1XLT9qTK/IMG-2614.png"  />
 </div>
 
 ###
 
-<p align="center">Working on:</p>
+<p align="left">More info of C⨯ coming soon!</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/1XLT9qTK/IMG-2614.png"  />
-</div>
+<h2 align="center">Misc:</h2>
 
 ###
 
-<p align="center">More info coming soon!</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htcdevk0/htcdevk0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htcdevk0/htcdevk0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/htcdevk0/htcdevk0/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
