@@ -29,13 +29,3 @@
 <h2 align="center">Working on:</h2>
 
 ###
-
-<div align="center">
-  <img height="165" src="https://i.postimg.cc/1XLT9qTK/IMG-2614.png"  />
-</div>
-
-###
-
-<p align="left">More info of C⨯ coming soon!</p>
-
-###
