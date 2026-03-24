@@ -1,5 +1,7 @@
 <h2 align="center">My techs:</h2>
 
+
+
 ###
 
 <br clear="both">
@@ -53,6 +55,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="40" alt="rubymine logo"  />
+</div>
+
+---
+
+<div align="center">
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htcdevk0&hide=javascript,css,scss,html&theme=tokyonight)
+ 
 </div>
 
 ###
